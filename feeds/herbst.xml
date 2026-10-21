@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Stiftolu – Herbst Grundschule Material</title>
+    <link>https://stiftolu.github.io/</link>
+    <description>Neue Übungshefte von Stiftolu: Herbst Grundschule Material</description>
+    <language>de-de</language>
+    <item>
+      <title>Zahlenmauern bis 100 zum Laternenfest – Übungsheft für Klasse 2</title>
+      <link>https://stiftolu.github.io/hefte/D0009/</link>
+      <description>Der Stein über zwei Nachbarsteinen ist die Summe: 30 + 20 = 50. Wie das funktioniert, üben Kinder in Klasse 2 mit Laternenmauern im Zahlenraum bis 100. Fehlende Steine werden ergänzt oder mit der Umkehraufgabe 50 − 30 = 20 gefunden. Zwei Lösungswörter gibt es dazu; die 54 Seiten sind erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-D0009-pin1</guid>
+      <pubDate>Wed, 21 Oct 2026 09:31:38 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/D0009/pin-1.jpg" type="image/jpeg" length="173282" />
+      <media:content url="https://stiftolu.github.io/hefte/D0009/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Erntedank-Wörter und Sätze für Klasse 1 – Deutsch im Herbst</title>
+      <link>https://stiftolu.github.io/hefte/N0044/</link>
+      <description>Obst und Gemüse zum Erntefest: Erstklässler hören Anlaute, gliedern Silben und schreiben kurze Wörter. Dann folgen Nomen mit der, die und das und erste Sätze mit großem Anfang und Punkt. Zum Paket gehören drei Niveaus, Lösungen und 48 Seiten, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0044-pin1</guid>
+      <pubDate>Wed, 21 Oct 2026 09:31:38 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0044/pin-1.jpg" type="image/jpeg" length="216316" />
+      <media:content url="https://stiftolu.github.io/hefte/N0044/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Abschreibtexte Herbst für Klasse 2 – Abschreiben, markieren, Schleichdiktat</title>
+      <link>https://stiftolu.github.io/hefte/N0050/</link>
+      <description>Laub, Igel, Kastanien, Äpfel, Drachen und Zugvögel liefern die Themen der kurzen Abschreibtexte. Kinder lernen feste Schritte: lesen, merken, schreiben, prüfen. Dieses Übungsheft hat 48 Seiten mit drei Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0050-pin1</guid>
+      <pubDate>Wed, 21 Oct 2026 09:31:38 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0050/pin-1.jpg" type="image/jpeg" length="199855" />
+      <media:content url="https://stiftolu.github.io/hefte/N0050/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>

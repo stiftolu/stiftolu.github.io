@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Stiftolu – Advent und Weihnachten Grundschule</title>
+    <link>https://stiftolu.github.io/</link>
+    <description>Neue Übungshefte von Stiftolu: Advent und Weihnachten Grundschule</description>
+    <language>de-de</language>
+    <item>
+      <title>Nikolaus Ergänzungsaufgaben bis 20 mit Mia und Ben – Klasse 1</title>
+      <link>https://stiftolu.github.io/hefte/D0006/</link>
+      <description>Mia und Ben stecken Nüsse in den Nikolaus-Stiefel, und die Kinder ergänzen, was noch fehlt. Sie lösen Plus- und Minusaufgaben bis 20, auch mit der Lücke vorne, und prüfen mit der Umkehraufgabe. Dazu 52 Seiten in drei Niveaus mit Lösungen, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-D0006-pin1</guid>
+      <pubDate>Wed, 21 Oct 2026 09:31:38 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/D0006/pin-1.jpg" type="image/jpeg" length="193930" />
+      <media:content url="https://stiftolu.github.io/hefte/D0006/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>
