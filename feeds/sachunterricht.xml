@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Sachunterricht Grundschule Material</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Sachunterricht Grundschule Material</description>
     <language>de-de</language>
+    <item>
+      <title>Bauernhof-Tiere erkunden: Rätselheft Sachunterricht für Klasse 1</title>
+      <link>https://stiftolu.github.io/hefte/alt-2274527/</link>
+      <description>Kuh, Pferd und weitere Tiere vom Hof stehen im Mittelpunkt dieses Rätselhefts für den Sachunterricht. Kreuzworträtsel, Lückenwörter, Suchsel und Wortschlange gibt es in drei Stufen, dazu eine Partneraufgabe. Auf 20 Seiten finden sich auch Lösungen und eine Handreichung, erhältlich auf eduki bei Stiftolu. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-alt-2274527-pin1</guid>
+      <pubDate>Thu, 22 Oct 2026 07:13:37 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/alt-2274527/pin-1.jpg" type="image/jpeg" length="217639" />
+      <media:content url="https://stiftolu.github.io/hefte/alt-2274527/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
