@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Mathe Klasse 3 und 4 Übungen</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Mathe Klasse 3 und 4 Übungen</description>
     <language>de-de</language>
+    <item>
+      <title>Spendenlauf im Mathe-Unterricht: Runden zählen, Beträge berechnen, Klasse 3</title>
+      <link>https://stiftolu.github.io/hefte/N0471/</link>
+      <description>Eine Klasse läuft für den guten Zweck, und gerechnet wird mit Strichliste, Tabelle und Säulendiagramm. Runden werden gezählt, in Meter umgerechnet und in Euro verwandelt, am Ende steht der Vergleich mit dem Spendenziel. Die Namen und Beträge sind erfunden. Zu haben sind 48 Seiten in 3 Niveaus mit Lösungen, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0471-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0471/pin-1.jpg" type="image/jpeg" length="208322" />
+      <media:content url="https://stiftolu.github.io/hefte/N0471/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mathe im Garten: Beete messen, Saatgut wiegen, Ernte planen – Klasse 4</title>
+      <link>https://stiftolu.github.io/hefte/N0463/</link>
+      <description>Ein Schulgarten, drei Kapitel: Beete messen, Saatgut und Ernte wiegen, Beete planen. Berechnet wird der Umfang, umgewandelt werden Gramm und Kilogramm, am Ende vergleichen die Viertklässler zwei Pläne. Alle Zahlen sind ausgedacht, Lösungen liegen bei. Auf 48 Seiten in 3 Niveaus, erhältlich auf eduki im Shop Stiftolu. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0463-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0463/pin-1.jpg" type="image/jpeg" length="215919" />
+      <media:content url="https://stiftolu.github.io/hefte/N0463/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Förder- und Forderunterricht</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Förder- und Forderunterricht</description>
     <language>de-de</language>
+    <item>
+      <title>Einzahl und Mehrzahl in Klasse 1 üben: ein Hund, zwei Hunde, viele Nomen</title>
+      <link>https://stiftolu.github.io/hefte/N0472/</link>
+      <description>Ein Hund, zwei Hunde: Wie wird aus eins viele? Erstklässler erkennen zuerst, ob ein Wort für ein Ding oder für mehrere steht. Dann bilden sie die Mehrzahl mit den Endungen -e, -n und -er und setzen sie in Sätze ein. Bilder und kurze Wörter helfen in der ersten Stufe. In 3 Niveaus und mit Lösungen sind 48 Seiten erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0472-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0472/pin-1.jpg" type="image/jpeg" length="185211" />
+      <media:content url="https://stiftolu.github.io/hefte/N0472/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

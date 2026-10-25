@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Deutsch Grundschule &amp; Oberstufe</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Deutsch Grundschule &amp; Oberstufe</description>
     <language>de-de</language>
+    <item>
+      <title>Kinderroman begleiten in Klasse 3: Kapitel zusammenfassen, Lese-Logbuch führen</title>
+      <link>https://stiftolu.github.io/hefte/N0469/</link>
+      <description>Titel, Autorin, Zeichner, Inhaltsverzeichnis: Zuerst lernen Drittklässler die Teile eines Buches kennen. Danach wird ein erfundener Buchauszug in Stichwörtern zusammengefasst, und die Wünsche der Figuren werden geklärt. Im Lese-Logbuch halten die Kinder fest, was passiert und was sie vermuten. Gebündelt sind es 48 Seiten mit 3 Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0469-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0469/pin-1.jpg" type="image/jpeg" length="230579" />
+      <media:content url="https://stiftolu.github.io/hefte/N0469/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

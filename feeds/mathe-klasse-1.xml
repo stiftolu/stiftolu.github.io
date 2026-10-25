@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Mathe Klasse 1 Arbeitsblätter</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Mathe Klasse 1 Arbeitsblätter</description>
     <language>de-de</language>
+    <item>
+      <title>Rechengeschichten bis 20: Plus und Minus, Klasse 1</title>
+      <link>https://stiftolu.github.io/hefte/D0002/</link>
+      <description>Eine Geschichte lesen, die Frage finden, rechnen und den Antwortsatz schreiben: Diese Schritte üben Erstklässler im Zahlenraum bis 20. Erst gibt es Plusgeschichten, dann Minusgeschichten und zuletzt die Frage zur passenden Rechnung. Hinzu kommen drei Niveaus und Lösungen auf 52 Seiten, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-D0002-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/D0002/pin-1.jpg" type="image/jpeg" length="191891" />
+      <media:content url="https://stiftolu.github.io/hefte/D0002/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

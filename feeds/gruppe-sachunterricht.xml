@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Sachkunde/Sachunterricht</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Sachkunde/Sachunterricht</description>
     <language>de-de</language>
+    <item>
+      <title>Apfel lesen und malen: Teile der Frucht und des Apfelbaums, Klasse 2</title>
+      <link>https://stiftolu.github.io/hefte/N0477/</link>
+      <description>Stiel, Schale, Fruchtfleisch, Kerngehäuse: Zweitklässler lesen kurze Sätze über den Apfel und malen, was dort steht. Weiter geht es mit Wurzel, Stamm und Krone des Apfelbaums und mit dem Weg von der Blüte zum Apfel. Jede Mal-Aufgabe hat eine Musterlösung im Lösungsteil. Gedruckt wird nur die passende Stufe, erhältlich auf eduki als Heft mit 48 Seiten. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0477-pin1</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0477/pin-1.jpg" type="image/jpeg" length="206617" />
+      <media:content url="https://stiftolu.github.io/hefte/N0477/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
