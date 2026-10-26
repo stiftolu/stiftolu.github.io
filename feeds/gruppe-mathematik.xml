@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Mathematik Unterrichtsmaterialien eduki</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Mathematik Unterrichtsmaterialien eduki</description>
     <language>de-de</language>
+    <item>
+      <title>Datum und Kalender in Klasse 3: Datum schreiben, Monate und Schaltjahr</title>
+      <link>https://stiftolu.github.io/hefte/N0479/</link>
+      <description>Wie schreibt man ein Datum richtig, und wie viele Monate hat das Jahr? Diese Fragen stehen am Anfang der drei Kapitel, am Ende wird das Kalenderblatt gelesen. 48 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0479-pin1</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0479/pin-1.jpg" type="image/jpeg" length="230077" />
+      <media:content url="https://stiftolu.github.io/hefte/N0479/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

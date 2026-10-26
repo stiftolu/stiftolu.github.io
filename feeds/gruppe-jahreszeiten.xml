@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Jahreszeiten</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Jahreszeiten</description>
     <language>de-de</language>
+    <item>
+      <title>Igel im Winter: Sachtexte lesen in Klasse 1 mit Winterschlaf</title>
+      <link>https://stiftolu.github.io/hefte/N0097/</link>
+      <description>Laub, Nest, Käfer, Winterschlaf: Diese Wörter schreiben Erstklässler, nachdem sie kurze Sachtexte über den Igel gelesen haben. Drei Kapitel begleiten das Tier vom Herbst bis zum Winterschlaf und zeigen, wie man Igeln im Garten hilft. Lösungen und drei Niveaus gehören zu den 48 Seiten, die erhältlich auf eduki sind. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0097-pin1</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0097/pin-1.jpg" type="image/jpeg" length="212744" />
+      <media:content url="https://stiftolu.github.io/hefte/N0097/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>

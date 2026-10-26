@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Herbst Unterrichtsmaterialien</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Herbst Unterrichtsmaterialien</description>
     <language>de-de</language>
+    <item>
+      <title>Laubbaum oder Nadelbaum? Herbst-Sachtexte für Klasse 3</title>
+      <link>https://stiftolu.github.io/hefte/N0099/</link>
+      <description>Wie unterscheiden sich Laubbäume und Nadelbäume? Genaues Lesen steht im Sachunterricht der dritten Klasse im Mittelpunkt: Fragen zum Text beantworten, Sätze prüfen, Informationen in Tabellen ordnen, Fachwörter erklären. Das alles gibt es auf drei Niveaus. Die 48 Seiten samt Lösungen und Handreichung sind erhältlich auf eduki im Shop Stiftolu. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0099-pin2</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:04 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0099/pin-2.jpg" type="image/jpeg" length="164314" />
+      <media:content url="https://stiftolu.github.io/hefte/N0099/pin-2.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
