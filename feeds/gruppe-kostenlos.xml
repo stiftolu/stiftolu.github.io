@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Stiftolu – Kostenlose Unterrichtsmaterialien</title>
     <link>https://stiftolu.github.io/</link>
     <description>Neue Übungshefte von Stiftolu: Kostenlose Unterrichtsmaterialien</description>
     <language>de-de</language>
+    <item>
+      <title>Pflanzen-Rätsel für Klasse 2: Ast, Blüte und weitere Pflanzenteile</title>
+      <link>https://stiftolu.github.io/hefte/alt-2278602/</link>
+      <description>Der Ast ist hart, die Blüte weich: Solche Merkmale ordnen Zweitklässler Pflanzen zu und erklären Unterschiede mit eigenen Worten. Buchstabensalat, Wortschlange, Lückenwörter und Silbenrätsel unterstützen das Lernen. Lösungen sind dabei. Zusammen ergibt das 24 Seiten, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-alt-2278602-pin1</guid>
+      <pubDate>Tue, 27 Oct 2026 05:30:03 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/alt-2278602/pin-1.jpg" type="image/jpeg" length="234731" />
+      <media:content url="https://stiftolu.github.io/hefte/alt-2278602/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
