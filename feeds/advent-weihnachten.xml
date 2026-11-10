@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Advent und Weihnachten Grundschule</description>
     <language>de-de</language>
     <item>
-      <title>Advent Rechnen in Klasse 3: Türchen, Plätzchen und Adventskranz-Muster</title>
-      <link>https://stiftolu.github.io/hefte/N0014/</link>
-      <description>Hinter den Türchen warten Aufgaben bis 1000, bei den Plätzchen wird gemalt und geteilt, und der Adventskranz liefert Muster für Zahlenfolgen. Alles bleibt ohne Glaubensinhalte, dafür gibt es drei Niveaus und Partneraufgaben. Samt Lösungen sind es 50 Seiten, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0014-pin1</guid>
-      <pubDate>Thu, 22 Oct 2026 07:13:37 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0014/pin-1.jpg" type="image/jpeg" length="133492" />
-      <media:content url="https://stiftolu.github.io/hefte/N0014/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Leseverstehen im Advent: Textstellen belegen und begründen, Klasse 4</title>
       <link>https://stiftolu.github.io/hefte/N0064/</link>
       <description>Ein Fensterkalender, eine Sammlung für das Tierheim, Briefe an ein Seniorenheim, ein Schulbasar, ein Winterkonzert und eine verschwundene Lichterkette: Das sind die Themen der Geschichten. Kinder beantworten Fragen, schreiben Textstellen ab und begründen, ob eine Aussage stimmt. Zum Umfang zählen 46 Seiten, drei Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Sun, 08 Nov 2026 05:30:03 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/D0012/pin-1.jpg" type="image/jpeg" length="177645" />
       <media:content url="https://stiftolu.github.io/hefte/D0012/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oberflächen zeichnen: Fell, Schnee und Tannennadeln in Klasse 3</title>
+      <link>https://stiftolu.github.io/hefte/N0712/</link>
+      <description>Wie sieht Fell aus, wie Schnee, wie eine Tannennadel? Mit Linien, Punkten und Schraffuren lassen sich Oberflächen sichtbar machen. Am Ende steht ein eigenes Winterbild. Zu den 48 Seiten gehören drei Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0712-pin1</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:28 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0712/pin-1.jpg" type="image/jpeg" length="208232" />
+      <media:content url="https://stiftolu.github.io/hefte/N0712/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
