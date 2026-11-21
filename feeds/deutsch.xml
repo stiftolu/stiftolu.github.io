@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Deutsch Grundschule Rätsel und Rechtschreibung</description>
     <language>de-de</language>
     <item>
-      <title>Nomen erkennen und richtig schreiben – Wortarten für Klasse 3</title>
-      <link>https://stiftolu.github.io/hefte/N0021/</link>
-      <description>Warum heißt es die Haustür? Weil das letzte Nomen den Artikel bestimmt, eine von mehreren Regeln in diesem Übungsheft für Klasse 3. Dazu gehören Großschreibung, Artikel und Mehrzahl mit Umlaut. Der Umfang: 50 Seiten mit Lösungen, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0021-pin1</guid>
-      <pubDate>Fri, 23 Oct 2026 17:54:39 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0021/pin-1.jpg" type="image/jpeg" length="159377" />
-      <media:content url="https://stiftolu.github.io/hefte/N0021/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Silben klatschen und trennen in Klasse 2 – Wörter am Zeilenende teilen</title>
       <link>https://stiftolu.github.io/hefte/N0023/</link>
       <description>Schokolade, Sonnenblume, Kartoffelsuppe: Lange Wörter in Silben zu gliedern, braucht Übung. Kinder in Klasse 2 sprechen, klatschen und zählen Silben, ergänzen sie und lernen Trennregeln für ck, st und Doppelbuchstaben. Dazu gibt es 52 Seiten mit drei Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Fri, 20 Nov 2026 05:30:06 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0509/pin-1.jpg" type="image/jpeg" length="224432" />
       <media:content url="https://stiftolu.github.io/hefte/N0509/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Lesen und Malen in Klasse 1: Die Geburtstagsfeier, Fragesätze beantworten</title>
+      <link>https://stiftolu.github.io/hefte/N0507/</link>
+      <description>Fragen zur Geburtstagsfeier lesen Erstklässler selbst und beantworten sie, indem sie malen. Danach folgen der Geburtstagstisch und ein eigenes Feier-Bild. 48 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0507-pin1</guid>
+      <pubDate>Sat, 21 Nov 2026 05:30:07 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0507/pin-1.jpg" type="image/jpeg" length="220069" />
+      <media:content url="https://stiftolu.github.io/hefte/N0507/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
