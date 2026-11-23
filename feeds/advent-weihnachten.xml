@@ -6,24 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Advent und Weihnachten Grundschule</description>
     <language>de-de</language>
     <item>
-      <title>Stille im Advent – Ruhe-Momente und Lichter für den Ethikunterricht in Klasse 2</title>
-      <link>https://stiftolu.github.io/hefte/N0694/</link>
-      <description>Gesprächs-, Mal- und Schreibaufgaben führen durch die Adventszeit als Zeit der Stille. Zweitklässler sammeln Ruhe-Ideen, begründen ihren Ruheplan und teilen ihre Vorfreude mit anderen. Beispiel-Antworten stehen im Lösungsteil. Wer das Thema im Stuhlkreis beginnen möchte, findet die 48 Seiten erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0694-pin2</guid>
-      <pubDate>Mon, 16 Nov 2026 05:30:06 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0694/pin-2.jpg" type="image/jpeg" length="213005" />
-      <media:content url="https://stiftolu.github.io/hefte/N0694/pin-2.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Advent: Grammatik und Rechtschreibung täglich üben in Klasse 4</title>
-      <link>https://stiftolu.github.io/hefte/N0169/</link>
-      <description>Jede Karte ist eine kurze Tagesaufgabe mit Sätzen rund um Plätzchen, Schnee und Geschenke. Viertklässler bestimmen Wortarten, steigern Adjektive und üben s, ss und ß. Kommas, Redezeichen und Satzschlusszeichen kommen dazu. Mit drei Niveaus und Lösungen ist das Übungsheft auf 48 Seiten erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0169-pin1</guid>
-      <pubDate>Mon, 16 Nov 2026 05:30:06 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0169/pin-1.jpg" type="image/jpeg" length="205495" />
-      <media:content url="https://stiftolu.github.io/hefte/N0169/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Advent in Klasse 2: Rechenstrategien bis 100 mit Plus und Minus</title>
       <link>https://stiftolu.github.io/hefte/D0014/</link>
       <description>Erst bis zum vollen Zehner, dann der Rest: Mit dieser Idee rechnen Zweitklässler im Advent Plus und Minus über den Zehner. Tricks wie Zehner und Einer getrennt, Nachbaraufgaben und Umkehraufgaben kommen dazu, außerdem Adventsgeschichten und Partneraufgaben. Drei Niveaus, Lösungen und Handreichung füllen 54 Seiten, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +256,24 @@
       <pubDate>Sun, 22 Nov 2026 05:30:06 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/alt-2275896/pin-2.jpg" type="image/jpeg" length="204421" />
       <media:content url="https://stiftolu.github.io/hefte/alt-2275896/pin-2.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nadelbäume und Laubbäume im Winterwald unterscheiden – Sachunterricht Klasse 3</title>
+      <link>https://stiftolu.github.io/hefte/N0709/</link>
+      <description>Nadeln, Rinde und Zapfen: Hier geht es darum, wie Bäume die Kälte überstehen. Die Kapitel Laub- und Nadelbäume, Schutz vor der Kälte und Leben im Winterwald bauen aufeinander auf, der Tannenbaum als Weihnachtsbrauch rundet das Thema ab. Erhältlich auf eduki: 48 Seiten, drei Niveaus, Lösungen und Handreichung. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0709-pin1</guid>
+      <pubDate>Mon, 23 Nov 2026 05:30:07 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0709/pin-1.jpg" type="image/jpeg" length="185009" />
+      <media:content url="https://stiftolu.github.io/hefte/N0709/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sachtexte lesen in Klasse 1 – Igel im Herbst, Winterschlaf und Hilfe im Garten</title>
+      <link>https://stiftolu.github.io/hefte/N0097/</link>
+      <description>Zum Lesetraining im Winter passt ein Tier, das schläft: der Igel. Erstklässler prüfen Aussagen, ordnen Abläufe und schreiben kurze Antworten, mit Hilfe, allein oder zum Knobeln. Lösungen und Handreichung sind dabei, 48 Seiten insgesamt, erhältlich auf eduki im Shop Stiftolu. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0097-pin2</guid>
+      <pubDate>Mon, 23 Nov 2026 05:30:08 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0097/pin-2.jpg" type="image/jpeg" length="153972" />
+      <media:content url="https://stiftolu.github.io/hefte/N0097/pin-2.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
