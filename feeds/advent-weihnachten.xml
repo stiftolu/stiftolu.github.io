@@ -6,24 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Advent und Weihnachten Grundschule</description>
     <language>de-de</language>
     <item>
-      <title>Advent in Klasse 2: Rechenstrategien bis 100 mit Plus und Minus</title>
-      <link>https://stiftolu.github.io/hefte/D0014/</link>
-      <description>Erst bis zum vollen Zehner, dann der Rest: Mit dieser Idee rechnen Zweitklässler im Advent Plus und Minus über den Zehner. Tricks wie Zehner und Einer getrennt, Nachbaraufgaben und Umkehraufgaben kommen dazu, außerdem Adventsgeschichten und Partneraufgaben. Drei Niveaus, Lösungen und Handreichung füllen 54 Seiten, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-D0014-pin1</guid>
-      <pubDate>Tue, 17 Nov 2026 05:30:04 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/D0014/pin-1.jpg" type="image/jpeg" length="211049" />
-      <media:content url="https://stiftolu.github.io/hefte/D0014/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bildraum im Kunstunterricht – ein Marktbild mit drei Ebenen, Klasse 4</title>
-      <link>https://stiftolu.github.io/hefte/N0670/</link>
-      <description>Vorne, Mitte, hinten heißt das erste Kapitel dieses Kunstheftes für Klasse 4, in dem ein Weihnachtsmarkt-Bild in drei Ebenen gegliedert wird. Danach folgen Verdecken, kleiner werden und das eigene Bild. Stufenweise Hilfen, Lösungen und Handreichung sind in den 48 Seiten enthalten, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0670-pin2</guid>
-      <pubDate>Tue, 17 Nov 2026 05:30:05 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0670/pin-2.jpg" type="image/jpeg" length="133720" />
-      <media:content url="https://stiftolu.github.io/hefte/N0670/pin-2.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Winter Kunst Klasse 4 – Kontrast aus Hell und Dunkel, kalt und warm</title>
       <link>https://stiftolu.github.io/hefte/N0695/</link>
       <description>Welche Stimmung erzeugt ein Himmel in kalten Farben, wenn eine warme Lichtquelle leuchtet? Kinder planen ihr Nachtbild Schritt für Schritt und beschreiben die Wirkung. Der Band mit 48 Seiten bringt Handreichung und Lösungen mit und ist erhältlich auf eduki. #Werbung</description>
@@ -274,6 +256,24 @@
       <pubDate>Mon, 23 Nov 2026 05:30:08 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0097/pin-2.jpg" type="image/jpeg" length="153972" />
       <media:content url="https://stiftolu.github.io/hefte/N0097/pin-2.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rechenpäckchen im Advent: Folgen fortsetzen und Fehler finden, Klasse 1</title>
+      <link>https://stiftolu.github.io/hefte/D0011/</link>
+      <description>Im Advent rechnen Erstklässler mit Kerzen und Plätzchen: Rechenpäckchen, in denen die erste oder die zweite Zahl nach fester Regel wächst, stehen im Mittelpunkt, dazu die Fehlersuche in Folgen und Päckchen. Eigene Folgen zu erfinden gehört ebenfalls dazu. Für Wochenplan, Förderstunde oder Hausaufgabe stehen 52 Seiten mit drei Niveaus und Lösungen bereit, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-D0011-pin2</guid>
+      <pubDate>Tue, 24 Nov 2026 05:30:05 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/D0011/pin-2.jpg" type="image/jpeg" length="178301" />
+      <media:content url="https://stiftolu.github.io/hefte/D0011/pin-2.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Am Futterhaus im Winter: Vögel erkennen und füttern, Klasse 1</title>
+      <link>https://stiftolu.github.io/hefte/N0109/</link>
+      <description>Körner, Fettfutter, Obst und frisches Wasser ja, Brot und Kekse nein: Was Vögel im Winter am Futterhaus brauchen, steht in einem eigenen Kapitel. Außerdem erkennen Kinder heimische Wintervögel an Farben und einfachen Merkmalen. Für die Förderstunde: 50 Seiten, erhältlich auf eduki, mit Lösungen und Handreichung. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0109-pin2</guid>
+      <pubDate>Tue, 24 Nov 2026 05:30:05 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0109/pin-2.jpg" type="image/jpeg" length="223704" />
+      <media:content url="https://stiftolu.github.io/hefte/N0109/pin-2.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
