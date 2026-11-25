@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Deutsch Grundschule Rätsel und Rechtschreibung</description>
     <language>de-de</language>
     <item>
-      <title>Wörter mit ä oder e? Ableiten üben in Klasse 4 mit Käfer, März, Säge</title>
-      <link>https://stiftolu.github.io/hefte/N0480/</link>
-      <description>Käfer, März, Säge: Bei diesen Merkwörtern hilft kein Ableiten, bei vielen anderen Wörtern schon. Das Übungsheft für die vierte Klasse trennt beides in drei Kapiteln und zeigt auch Ausnahmen wie Eltern. 48 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0480-pin1</guid>
-      <pubDate>Mon, 26 Oct 2026 05:30:03 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0480/pin-1.jpg" type="image/jpeg" length="216672" />
-      <media:content url="https://stiftolu.github.io/hefte/N0480/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Kleine Wörter sicher schreiben: nämlich, während, vielleicht, Klasse 4</title>
       <link>https://stiftolu.github.io/hefte/N0473/</link>
       <description>Nämlich, während, vielleicht, ziemlich, plötzlich: Diese Merkwörter haben schwierige Stellen, und genau die werden markiert. Viertklässler sortieren außerdem kleine Wörter wie danach, zwischen und deshalb nach wann, wo oder warum. Abschreiben, Abdecken und Prüfen führen zur eigenen Lernwörterliste. Das alles steht auf 48 Seiten, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Mon, 23 Nov 2026 05:30:08 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0051/pin-1.jpg" type="image/jpeg" length="204529" />
       <media:content url="https://stiftolu.github.io/hefte/N0051/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Doppelkonsonanten richtig schreiben in Klasse 4: ck, tz und Silbengelenk</title>
+      <link>https://stiftolu.github.io/hefte/N0514/</link>
+      <description>Von kurz oder lang über Silbengelenk und Verlängern bis zu ck und tz: Vier Kapitel behandeln die Doppelkonsonanten in Klasse 4. Wortfamilien und Ausnahmen runden sie ab. Umfang 60 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0514-pin1</guid>
+      <pubDate>Wed, 25 Nov 2026 05:30:10 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0514/pin-1.jpg" type="image/jpeg" length="171325" />
+      <media:content url="https://stiftolu.github.io/hefte/N0514/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
