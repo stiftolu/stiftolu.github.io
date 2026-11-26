@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Deutsch Grundschule Rätsel und Rechtschreibung</description>
     <language>de-de</language>
     <item>
-      <title>Kleine Wörter sicher schreiben: nämlich, während, vielleicht, Klasse 4</title>
-      <link>https://stiftolu.github.io/hefte/N0473/</link>
-      <description>Nämlich, während, vielleicht, ziemlich, plötzlich: Diese Merkwörter haben schwierige Stellen, und genau die werden markiert. Viertklässler sortieren außerdem kleine Wörter wie danach, zwischen und deshalb nach wann, wo oder warum. Abschreiben, Abdecken und Prüfen führen zur eigenen Lernwörterliste. Das alles steht auf 48 Seiten, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0473-pin1</guid>
-      <pubDate>Mon, 26 Oct 2026 05:30:03 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0473/pin-1.jpg" type="image/jpeg" length="217063" />
-      <media:content url="https://stiftolu.github.io/hefte/N0473/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Diskutieren nach Regeln: Meinung begründen und eine Diskussion leiten, Klasse 4</title>
       <link>https://stiftolu.github.io/hefte/N0474/</link>
       <description>Ausreden lassen, sich melden, beim Thema bleiben: Gesprächsregeln stehen am Anfang, danach sagen Viertklässler ihre Meinung mit Grund und Beispiel. Höfliche Antworten auf Einwände werden ebenso geübt wie die Rolle der Gesprächsleitung. Alle Themen stammen aus dem Schulalltag, die Gespräche sind erfunden. Angeboten werden 48 Seiten mit 3 Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Wed, 25 Nov 2026 05:30:10 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0514/pin-1.jpg" type="image/jpeg" length="171325" />
       <media:content url="https://stiftolu.github.io/hefte/N0514/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gut zuhören und miteinander sprechen – Deutsch Klasse 3 mit Gesprächsregeln</title>
+      <link>https://stiftolu.github.io/hefte/N0519/</link>
+      <description>Gesprächsregeln, aktiv zuhören und nachfragen, freundliche Rückmeldung geben: Das sind die drei Kapitel für Klasse 3. Sie drehen sich ums Miteinander-Sprechen im Deutschunterricht. 48 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0519-pin1</guid>
+      <pubDate>Thu, 26 Nov 2026 05:30:08 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0519/pin-1.jpg" type="image/jpeg" length="211225" />
+      <media:content url="https://stiftolu.github.io/hefte/N0519/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
