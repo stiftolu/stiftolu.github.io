@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Deutsch Grundschule Rätsel und Rechtschreibung</description>
     <language>de-de</language>
     <item>
-      <title>Diskutieren nach Regeln: Meinung begründen und eine Diskussion leiten, Klasse 4</title>
-      <link>https://stiftolu.github.io/hefte/N0474/</link>
-      <description>Ausreden lassen, sich melden, beim Thema bleiben: Gesprächsregeln stehen am Anfang, danach sagen Viertklässler ihre Meinung mit Grund und Beispiel. Höfliche Antworten auf Einwände werden ebenso geübt wie die Rolle der Gesprächsleitung. Alle Themen stammen aus dem Schulalltag, die Gespräche sind erfunden. Angeboten werden 48 Seiten mit 3 Niveaus und Lösungen, erhältlich auf eduki. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-N0474-pin1</guid>
-      <pubDate>Mon, 26 Oct 2026 05:30:03 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/N0474/pin-1.jpg" type="image/jpeg" length="213271" />
-      <media:content url="https://stiftolu.github.io/hefte/N0474/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Großschreibung üben in Klasse 3 – Satzanfang, Nomen und höfliche Anrede</title>
       <link>https://stiftolu.github.io/hefte/N0267/</link>
       <description>Wann schreibt man groß? Drei Kapitel geben die Antwort: Groß am Satzanfang, Nomen am Begleiter erkennen und höflich anreden. Dieses Übungsheft umfasst 34 Seiten mit 3 Niveaus, Lösungen und Handreichung und ist kostenlos erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Thu, 26 Nov 2026 05:30:08 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0519/pin-1.jpg" type="image/jpeg" length="211225" />
       <media:content url="https://stiftolu.github.io/hefte/N0519/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sprachen um uns herum erkunden: Dialekt und Gebärdensprache in Klasse 3</title>
+      <link>https://stiftolu.github.io/hefte/N0369/</link>
+      <description>Im Klassenzimmer sprechen viele Kinder anders als in der Schule. Dieses Übungsheft für Klasse 3 ordnet regionale Wörter dem Standardwort zu, trennt Alltagssprache von Standardsprache und zeigt Herkunftssprachen sowie Gebärdensprache. 48 Seiten mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0369-pin1</guid>
+      <pubDate>Fri, 27 Nov 2026 05:30:07 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0369/pin-1.jpg" type="image/jpeg" length="203183" />
+      <media:content url="https://stiftolu.github.io/hefte/N0369/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
