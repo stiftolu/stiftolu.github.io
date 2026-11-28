@@ -6,15 +6,6 @@
     <description>Neue Übungshefte von Stiftolu: Sachunterricht Grundschule Material</description>
     <language>de-de</language>
     <item>
-      <title>Rätsel Teile vom Körper für Klasse 1 – Kopf und Arm finden</title>
-      <link>https://stiftolu.github.io/hefte/alt-2275128/</link>
-      <description>Kopf und Arm im Suchsel finden, Buchstaben sortieren, eine Wortschlange trennen: So wird das Thema Körper im Sachunterricht zum Rätsel. Kostenlos sind die 24 Seiten samt Lösungen erhältlich auf eduki, im Shop Stiftolu. #Werbung</description>
-      <guid isPermaLink="false">stiftolu-alt-2275128-pin1</guid>
-      <pubDate>Fri, 23 Oct 2026 17:54:39 +0000</pubDate>
-      <enclosure url="https://stiftolu.github.io/hefte/alt-2275128/pin-1.jpg" type="image/jpeg" length="142849" />
-      <media:content url="https://stiftolu.github.io/hefte/alt-2275128/pin-1.jpg" medium="image" type="image/jpeg" />
-    </item>
-    <item>
       <title>Berufe und Arbeitswelt im Sachunterricht Klasse 4: Arbeitsfelder und Arbeitsteilung</title>
       <link>https://stiftolu.github.io/hefte/N0504/</link>
       <description>Wer arbeitet wo, und warum teilen Menschen Arbeit? Drei Kapitel ordnen Berufe, behandeln Arbeitsteilung und schauen auf Berufe früher und heute. 48 Seiten für den Sachunterricht in Klasse 4, mit 3 Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
@@ -274,6 +265,15 @@
       <pubDate>Thu, 26 Nov 2026 05:30:08 +0000</pubDate>
       <enclosure url="https://stiftolu.github.io/hefte/N0626/pin-1.jpg" type="image/jpeg" length="135878" />
       <media:content url="https://stiftolu.github.io/hefte/N0626/pin-1.jpg" medium="image" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Anderen helfen: Wer braucht meine Hilfe? Ethik für Klasse 4</title>
+      <link>https://stiftolu.github.io/hefte/N0692/</link>
+      <description>Kann ich helfen, will ich helfen? Zwischen diesen beiden Fragen liegt viel Ethikunterricht, und das Material nimmt sich Zeit dafür: Wer braucht Hilfe, wie biete ich sie an, wo liegen meine Grenzen? Dazu 48 Seiten, drei Niveaus, Lösungen und Handreichung, erhältlich auf eduki. #Werbung</description>
+      <guid isPermaLink="false">stiftolu-N0692-pin1</guid>
+      <pubDate>Sat, 28 Nov 2026 05:30:07 +0000</pubDate>
+      <enclosure url="https://stiftolu.github.io/hefte/N0692/pin-1.jpg" type="image/jpeg" length="177159" />
+      <media:content url="https://stiftolu.github.io/hefte/N0692/pin-1.jpg" medium="image" type="image/jpeg" />
     </item>
   </channel>
 </rss>
